@@ -107,7 +107,6 @@ Below is the Confusion Matrix for the best-performing model (XGBClassifier):
 ```text
 ├── Online_Payment_Fraud_Detection.ipynb   # Main Jupyter Notebook
 ├── Online_Payment_Fraud_Detection.py      # Python Script equivalent
-├── new_file.csv                           # Original Dataset
 ├── plot_0.png - plot_5.png                # Exported Visualizations
 └── README.md                              # Project Documentation
 ```
